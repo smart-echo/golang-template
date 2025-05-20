@@ -1,0 +1,15 @@
+{
+    "name": "Golang Template",
+    "image": "mcr.microsoft.com/devcontainer/go:1-1.24-bookworm",
+    "features": {},
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "golang.go",
+                "alibaba-cloud.tongyi-lingma"
+            ]
+        }
+    },
+    "postCreateCommand": "go version"
+    // "remoteUser": "root"
+}
