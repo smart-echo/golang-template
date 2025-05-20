@@ -1,0 +1,3 @@
+[submodule ".lingma/rules/lingma-project-rule-template"]
+	path = .lingma/rules/lingma-project-rule-template
+	url = https://atomgit.com/lingma/lingma-project-rule-template

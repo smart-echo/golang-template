@@ -1,0 +1,1 @@
+lingma-project-rule-template/golang/project_rule.md
